@@ -1,0 +1,15 @@
+D:\AUniWorkchop\Y1.2\ClassMDT112\MDT112-HW-1\bin\Debug\net6.0\MDT112-HW-1.exe
+D:\AUniWorkchop\Y1.2\ClassMDT112\MDT112-HW-1\bin\Debug\net6.0\MDT112-HW-1.deps.json
+D:\AUniWorkchop\Y1.2\ClassMDT112\MDT112-HW-1\bin\Debug\net6.0\MDT112-HW-1.runtimeconfig.json
+D:\AUniWorkchop\Y1.2\ClassMDT112\MDT112-HW-1\bin\Debug\net6.0\MDT112-HW-1.dll
+D:\AUniWorkchop\Y1.2\ClassMDT112\MDT112-HW-1\bin\Debug\net6.0\MDT112-HW-1.pdb
+D:\AUniWorkchop\Y1.2\ClassMDT112\MDT112-HW-1\obj\Debug\net6.0\MDT112-HW-1.csproj.AssemblyReference.cache
+D:\AUniWorkchop\Y1.2\ClassMDT112\MDT112-HW-1\obj\Debug\net6.0\MDT112-HW-1.GeneratedMSBuildEditorConfig.editorconfig
+D:\AUniWorkchop\Y1.2\ClassMDT112\MDT112-HW-1\obj\Debug\net6.0\MDT112-HW-1.AssemblyInfoInputs.cache
+D:\AUniWorkchop\Y1.2\ClassMDT112\MDT112-HW-1\obj\Debug\net6.0\MDT112-HW-1.AssemblyInfo.cs
+D:\AUniWorkchop\Y1.2\ClassMDT112\MDT112-HW-1\obj\Debug\net6.0\MDT112-HW-1.csproj.CoreCompileInputs.cache
+D:\AUniWorkchop\Y1.2\ClassMDT112\MDT112-HW-1\obj\Debug\net6.0\MDT112-HW-1.dll
+D:\AUniWorkchop\Y1.2\ClassMDT112\MDT112-HW-1\obj\Debug\net6.0\refint\MDT112-HW-1.dll
+D:\AUniWorkchop\Y1.2\ClassMDT112\MDT112-HW-1\obj\Debug\net6.0\MDT112-HW-1.pdb
+D:\AUniWorkchop\Y1.2\ClassMDT112\MDT112-HW-1\obj\Debug\net6.0\MDT112-HW-1.genruntimeconfig.cache
+D:\AUniWorkchop\Y1.2\ClassMDT112\MDT112-HW-1\obj\Debug\net6.0\ref\MDT112-HW-1.dll
